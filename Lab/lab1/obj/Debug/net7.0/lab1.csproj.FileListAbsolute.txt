@@ -1,0 +1,15 @@
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/bin/Debug/net7.0/lab1
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/bin/Debug/net7.0/lab1.deps.json
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/bin/Debug/net7.0/lab1.runtimeconfig.json
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/bin/Debug/net7.0/lab1.dll
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/bin/Debug/net7.0/lab1.pdb
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/obj/Debug/net7.0/lab1.csproj.AssemblyReference.cache
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/obj/Debug/net7.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/obj/Debug/net7.0/lab1.AssemblyInfoInputs.cache
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/obj/Debug/net7.0/lab1.AssemblyInfo.cs
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/obj/Debug/net7.0/lab1.csproj.CoreCompileInputs.cache
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/obj/Debug/net7.0/lab1.dll
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/obj/Debug/net7.0/refint/lab1.dll
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/obj/Debug/net7.0/lab1.pdb
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/obj/Debug/net7.0/lab1.genruntimeconfig.cache
+/Users/SavinuRanasinghe/Desktop/C Programming/lab1/lab1/obj/Debug/net7.0/ref/lab1.dll

@@ -1,0 +1,15 @@
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/bin/Debug/net7.0/lab2
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/bin/Debug/net7.0/lab2.deps.json
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/bin/Debug/net7.0/lab2.runtimeconfig.json
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/bin/Debug/net7.0/lab2.dll
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/bin/Debug/net7.0/lab2.pdb
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/obj/Debug/net7.0/lab2.csproj.AssemblyReference.cache
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/obj/Debug/net7.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/obj/Debug/net7.0/lab2.AssemblyInfoInputs.cache
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/obj/Debug/net7.0/lab2.AssemblyInfo.cs
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/obj/Debug/net7.0/lab2.csproj.CoreCompileInputs.cache
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/obj/Debug/net7.0/lab2.dll
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/obj/Debug/net7.0/refint/lab2.dll
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/obj/Debug/net7.0/lab2.pdb
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/obj/Debug/net7.0/lab2.genruntimeconfig.cache
+/Users/SavinuRanasinghe/Desktop/Programming in C#/lab2/lab2/obj/Debug/net7.0/ref/lab2.dll
